@@ -44,3 +44,5 @@ todo
 - cleaned csv file of with only the cols that we need to use for this - only use this file when building the project
 - editable text file for the user using claude code
 - move the pdf image file to the bottom of the priority list and work on creating the excel csv file that the user needs to download in the end 
+- there might be more data right now, so we need to figure out a way to keep the db to stay updated 
+    - how can we connect the csv file to a api that scrapes the ospi site? if the ospi site keeps updating, how can we connect to that?
