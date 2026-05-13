@@ -39,3 +39,8 @@ then:
 
 Implementation blockers 
 - cant use claude code without a Max or Pro account or without an API key
+
+todo
+- cleaned csv file of with only the cols that we need to use for this - only use this file when building the project
+- editable text file for the user using claude code
+- move the pdf image file to the bottom of the priority list and work on creating the excel csv file that the user needs to download in the end 
