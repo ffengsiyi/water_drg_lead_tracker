@@ -46,3 +46,14 @@ todo
 - move the pdf image file to the bottom of the priority list and work on creating the excel csv file that the user needs to download in the end 
 - there might be more data right now, so we need to figure out a way to keep the db to stay updated 
     - how can we connect the csv file to a api that scrapes the ospi site? if the ospi site keeps updating, how can we connect to that?
+
+
+need to scrape the ospi data based off of user query, user will search for a specific school dstrict. program will fetch the information for that district, display it, create a csv file with all of the cleaned info for that school, and then give the user the option to download the csv file. 
+after we implement this, we will figure out a way to generate a pdf image to visually display the results and info from the csv file to the user in the web platform, but this isnt a major priority for us right now. we have a wireframe for the front end prototype, but we haven't actually connected the backend development to the front end. our backend will probably be based off of claude code, which will help us generate thos csv files and prsent them to the users. 
+priority list:
+1. figure out how we can fetch the data for the district based off of user query (connect a script to the csv)
+    questions: how can we test if this will actually work? 
+2. generate a csv file for the user to download based off of their search in our system.
+3. connect to the backend 
+4. connect to the web ui
+5. generate the pdf image visualization
