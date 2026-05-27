@@ -31,7 +31,7 @@ CONTAMINATION_THRESHOLD_PPB = 5
 
 # Unit replacement costs per fixture type (USD).
 # Must match project_config.txt cost values.
-# TODO - UPDATE THESE VALUES TO BE MORE ACCURATE
+# TODO - UPDATE THESE VALUES TO BE MORE`ACCURATE
 UNIT_COSTS = {
     "Tap/Sink":              600,
     "Water Fountain":       1500,

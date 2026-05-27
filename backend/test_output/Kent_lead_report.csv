@@ -1,0 +1,54 @@
+school_name,fixture_type,fixture_location,fixtures_above_5ppb,avg_lead_ppb,year_sampled,unit_replacement_cost_usd,total_estimated_cost_usd
+Carriage Crest Elementary School,Tap/Sink,200wing | 300wing | musicroom | readingroom | room207;No Aerator | staffworkroom,6,7.7,2018,600,3600
+Cedar Valley Elementary School,Tap/Sink,linkbreakroom | room076,2,26.0,2018,600,1200
+Cedar Valley Elementary School,Water Fountain,room076,1,6.0,2018,1500,1500
+Crestwood Elementary School,Tap/Sink,"bay30pod;Tap Drips | bay40eastend | bay40podwestend | bay50northend | bay50southend | mainofficeinback | nursesoffice | room21;Tap Drips, no Aerator | room23 | room30 | room31 | room32 | room33 | room34 | room35 | room36 | room37 | room40;No Aerator | room41 | room42 | room43;Tap drips, tap dented at spout | room45;Water used this morning | room50;No Aerator, plumbers tape around aerator, Bubbler for sink turned off | room51 | room52;No Aerator | room53 | room54 | room56;Tap used to fill tea kettle | staffworkroom;Calcification around base of tap",29,28.6,2018,600,17400
+Crestwood Elementary School,Water Fountain,room21 | room33 | room54;Some calcification on bubbler | room56,4,8.5,2018,1500,6000
+East Hill Elementary School,Tap/Sink,nursesoffice | room19; East Wall | room19;Inner West Wall | room19;West Wall | room20;East Wall | room20;West Wall | room21;East Wall | room21;West Inner Wall | room21;West Wall | room22;East Wall | room22;West Inner Wall | room22;West Wall | room24 | room30 | room33 | room34 | room36 | room41 | room44;Bubbler turned off | room47 | room48 | staffworkroom;No Aerator,22,15.9,2018,600,13200
+East Hill Elementary School,Water Fountain,room19;East Wall | room46;A little discolored | room47,3,17.0,2018,1500,4500
+Fairwood Elementary School,Tap/Sink,"conferenceroom | roomd1;Water is discolored, a little bit yellow | roomd3 | roome5 | staffworkroom;No Aerator | therapyroom;Room is used 2x per week, low use",6,23.7,2018,600,3600
+Fairwood Elementary School,Water Fountain,roome3;Used this morning,1,6.0,2018,1500,1500
+George T. Daniel Elementary School,Tap/Sink,roome6 | roomf1;No Aerator,2,6.0,2018,600,1200
+George T. Daniel Elementary School,Water Fountain,roomd5,1,16.0,2018,1500,1500
+Glenridge Elementary School,Tap/Sink,readingroom,1,7.0,2018,600,600
+Glenridge Elementary School,Water Fountain,readingroom,1,8.0,2018,1500,1500
+Grass Lake Elementary School,Tap/Sink,musicroom;Some mineral deposits on tap | room302 | room304,3,14.0,2018,600,1800
+Grass Lake Elementary School,Water Fountain,musicroom | room304,2,10.5,2018,1500,3000
+Horizon Elementary School,Tap/Sink,200pod | 300pod,2,9.0,2018,600,1200
+Horizon Elementary School,Water Fountain,room407 | room408,2,16.0,2018,1500,3000
+Lake Youngs Elementary School,Tap/Sink,"room26 | speechcounselorsoffice2nddoorfromeasthallway;Extremely discolored, middle hallway from east side | workroom;Annex",3,61.3,2018,600,1800
+Lake Youngs Elementary School,Water Fountain,room11 | room20;Debris in Sample | room23 | room26,4,11.8,2018,1500,6000
+Martin Sortun Elementary School,Tap/Sink,outsideroom204 | outsideroom302 | outsideroom406 | outsideroom409 | room202 | room203 | room204 | room207 | room302 | room304 | room307 | room308 | room406 | room407 | room408 | room409 | room414 | room415 | room416 | room417,20,10.9,2018,600,12000
+Meadow Ridge Elementary School,Tap/Sink,"ellcommons;South Wall, Sink on Right, Used this morning | library;Room behind counter | mainoffice | musicroom | physicaltherapyroomacrossfrommediacenter;Covered by orange bin, white gunk around Aerator | roome101 | roome102 | roome103 | roome104 | roome105;Low flow | roome106 | rooms201 | rooms202;Used this morning | rooms203 | rooms204 | rooms205 | rooms206 | rooms207 | rooms208 | roomw301 | roomw302 | roomw303 | roomw304 | roomw305 | roomw306 | roomw307eastsideofroom;Fixtures are on, but class has not used for several days | roomw308 | roomw309westsideofroom | staffworkroom",29,12.0,2018,600,17400
+Meridian Elementary School,Tap/Sink,"room103 | room117 | room203 | room204 | room207 | room209 | bay40westendnearroom43;New Fixture (not at East End) | bay50northendnearroom50;New Fixture | bay50southendnearroom55;New Fixture | room21;New Fixture | room22listedasroom23infirstsurvey;New Fixture | room31;New Fixture | room40;New Fixture, Dripping | room43;New Fixture | room51;New Fixture | room52;New Fixture | staffworkroom;New Fixture",19,22.0,2018,600,11400
+Meridian Elementary School,Water Fountain,room202;Small amount of calcification on Bubbler | room203 | room206;Some calcification on bubbler | room207,4,8.8,2018,1500,6000
+Millennium Elementary School,Tap/Sink,room105,1,8.0,2018,600,600
+Neely-O'Brien Elementary School,Tap/Sink,200wing | 400wing | room153;Speech Pathologist Room | room403;Tap Dripping,4,22.5,2018,600,2400
+Park Orchard Elementary School,Tap/Sink,"librarysink | room12 | room24 | room25 | room26 | room2 | room5 | room9;No Aerator, Used this morning | staffworkroom",9,13.9,2018,600,5400
+Park Orchard Elementary School,Water Fountain,downhallfromroom11 | literacylab | room22,3,9.7,2018,1500,4500
+Ridgewood Elementary School,Tap/Sink,kitchen;Left | outsideroom13 | outsideroom16 | outsideroom17 | outsideroom22 | outsideroom7 | room10 | room11 | room17 | room22 | room6 | room8,12,13.3,2018,600,7200
+Ridgewood Elementary School,Water Fountain,outsideroom13 | outsideroom16 | outsideroom17 | outsideroom22 | room17,5,9.0,2018,1500,7500
+Sawyer Woods Elementary School,Tap/Sink,commonsareanearmainoffice;Sink on Left Hand Side | commonsareanearmainoffice;Sink on Right Hand Side | libraryoffice | musicroom | room207;Tap used this morning | room408 | thereadingcenterroom | workroom,8,12.6,2018,600,4800
+Scenic Hill Elementary School,Tap/Sink,room105,1,7.0,2018,600,600
+Soos Creek Elementary School,Tap/Sink,kitchen;Left | kitchen;Right | music | room201 | room306;Bubbler no pressure | room401 | room404 | room405 | room406,9,23.3,2018,600,5400
+Soos Creek Elementary School,Water Fountain,music | room101 | room102 | room201 | room203 | room206 | room401,7,7.1,2018,1500,10500
+Springbrook Elementary School,Tap/Sink,kitchen;Right | room403,2,8.5,2018,600,1200
+Sunrise Elementary School,Tap/Sink,kitchen;Left | kitchen;Right | room144 | room168 | room212,5,7.6,2018,600,3000
+,,,,,,,
+DISTRICT SUMMARY,,,,,,,
+District,Kent,,,,,,
+Testing Round(s),2018,,,,,,
+Total Schools in District,27,,,,,,
+Schools with Contamination,22,,,,,,
+Total Fixtures Tested,1640,,,,,,
+Fixtures Above 5 ppb,233,,,,,,
+% Fixtures Contaminated,14.2%,,,,,,
+,,,,,,,
+--- Remediation Costs ---,,,,,,,
+  Tap/Sink (195 fixtures × $600),"$117,000",,,,,,
+"  Water Fountain (38 fixtures × $1,500)","$57,000",,,,,,
+TOTAL REMEDIATION COST ESTIMATE,"$174,000",,,,,,
+,,,,,,,
+Note,"Cost estimates cover material replacement only. Labor, inspection, and disposal costs are not included.",,,,,,
+Report Generated,2026-05-20 15:54,,,,,,
+Data Source,WA DOH Lead in School Drinking Water Program (doh.wa.gov),,,,,,

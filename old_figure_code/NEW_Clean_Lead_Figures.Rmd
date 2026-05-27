@@ -5,6 +5,7 @@ This file is used to make plots from a cleaned dataset that includes data from D
 
 ### **Step 1. Load R Libraries and Upload Cleaned Data Resulting from "Clean_Lead_Data.Rmd" file**
 ```{r}
+library(here)
 library(tidyr)
 library(dplyr)
 library(tidyverse)
@@ -12,10 +13,12 @@ library(ggplot2)
 library(sf)
 library(scales)
 
-setwd(dir = "~/Dropbox/Katya Dropbox/HCDE pre-tenure (2023-2028)/Research/Lead in WA Schools/")
+setwd(dir = "~/Library/CloudStorage/OneDrive-UW/(4.3) spring 2026/drg/lead_in_schools/old_figure_code")
 
-all_lead_datasets <-read.csv(file = "all_lead_datasets.csv", sep = ",",stringsAsFactors = T)
-sd_map <- read_sf("datasets/mapping_geospatial_WA/Geojson Files/Washington_School_District_Boundaries.geojson")
+all_lead_datasets <- read.csv(here("all_lead_datasets.csv"), sep = ",", stringsAsFactors = TRUE, fileEncoding = "latin1")
+sd_map <- read_sf(here("datasets/mapping_geospatial_WA/Geojson Files/Washington_School_District_Boundaries.geojson"))
+
+ggsave(file = here("figures/districts/", paste0(district_name, ".pdf")), ...)
 
 results='hide'
 ```

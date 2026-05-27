@@ -57,3 +57,10 @@ priority list:
 3. connect to the backend 
 4. connect to the web ui
 5. generate the pdf image visualization
+
+fix:
+- swap loc of cols C and D in csv output
+- add grade level of students served after fixtures above 5 ppb     
+- make fixture loc look better 
+- frist tab of csv file is everything thats needed for the application
+- second tab has all of the addtional info that we currently have in the csv
